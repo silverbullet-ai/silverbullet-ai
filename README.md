@@ -14,7 +14,7 @@ and clarity beats chaos.
 - 🐍 Python (automation, structured design, tooling)
 - ☕ Java (OOP, clean architecture, backend thinking)
 - 🤖 Applied AI & Machine Learning fundamentals
-- 📊 Data Structures & Algorithmic problem-solving
+- 📊 Data Science foundations (statistics, modeling, analysis)
 
 I observe before I optimize.  
 Patterns reveal more than noise ever can.
