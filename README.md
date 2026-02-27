@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Aahish (Silver Bullet)
 
-**AIML Graduate | Python & Java**
+**Data Science Enthusiast | Applied AI | Python • Java • Systems Thinking**
 
-From solving problems → to writing scripts → to engineering systems that hold up.
+From solving problems → writing scripts → engineering systems that hold up.
 
 I believe discipline beats motivation —  
 and clarity beats chaos.
@@ -20,7 +20,7 @@ I observe before I optimize.
 Patterns reveal more than noise ever can.
 
 I don’t just train models.  
-I try to understand the system that trains them.
+I study the systems that make intelligent decisions possible.
 
 ---
 
@@ -28,7 +28,7 @@ I try to understand the system that trains them.
 
 Precision over noise.  
 Structure over shortcuts.  
-Intelligent solutions when needed — not for hype.
+Intelligent solutions when required — never for hype.
 
 Understand deeply.  
 Act deliberately.  
