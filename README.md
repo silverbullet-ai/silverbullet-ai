@@ -54,7 +54,7 @@ growth becomes natural.
 
 ---
 
-## ✍️ Beyond Code
+## 🪶 Beyond Code
 
 Sometimes I write poems —  
 for the spaces where logic falls silent.
