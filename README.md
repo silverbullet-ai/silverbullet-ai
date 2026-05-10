@@ -13,6 +13,8 @@ and clarity beats chaos.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=silverbullet-ai&theme=dark&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverbullet-ai&show_icons=true&theme=github_dark&hide_border=true)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silverbullet-ai&theme=github-dark&hide_border=true)
 
 ---
