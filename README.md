@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Silver Bullet (Aahish)
+# 👋 Hey, I'm Aahish (Silver Bullet)
 
 **Data Science Enthusiast | Applied AI | Python • Java • Systems Thinking**
 
