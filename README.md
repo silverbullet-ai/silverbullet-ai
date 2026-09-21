@@ -9,14 +9,6 @@ and clarity beats chaos.
 
 ---
 
-## 📊 Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=silverbullet-ai&theme=dark&hide_border=true)](https://github.com/silverbullet-ai)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silverbullet-ai&theme=github-dark&hide_border=true)](https://github.com/silverbullet-ai)
-
----
-
 ## 🧠 What I Work On
 
 - 🐍 Python (automation, structured design, tooling)
