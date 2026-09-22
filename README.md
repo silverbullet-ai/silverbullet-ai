@@ -1,64 +1,93 @@
-# 👋 Hey, I'm Aahish (Silver Bullet)
+# 👋 Hey, I'm Aahish — **Silver Bullet**
 
-**Data Science Enthusiast | Applied AI | Python • Java • Systems Thinking**
+### Data Science Enthusiast · Applied AI · Python · Java · Systems Thinking
 
-From solving problems → writing scripts → engineering systems that hold up.
+> From solving problems → writing scripts → engineering systems that hold up.
 
-I believe discipline beats motivation —  
-and clarity beats chaos.
+I believe **discipline beats motivation** —
+and **clarity beats chaos**.
 
 ---
+## Activity 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=silverbullet-ai&theme=dark&hide_border=true)](https://github.com/silverbullet-ai)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=silverbullet-ai\&theme=dark\&hide_border=true)](https://github.com/silverbullet-ai)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silverbullet-ai&theme=github-dark&hide_border=true)](https://github.com/silverbullet-ai)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silverbullet-ai\&theme=github-dark\&hide_border=true)](https://github.com/silverbullet-ai)
 
 ---
 
 ## 🧠 What I Work On
 
-- 🐍 Python (automation, structured design, tooling)
-- ☕ Java (OOP, clean architecture, backend thinking)
-- 🤖 Applied AI & Machine Learning fundamentals
-- 📊 Data Science foundations (statistics, modeling, analysis)
+* 🐍 **Python** — automation, tooling, structured design
+* ☕ **Java** — OOP, clean architecture, backend thinking
+* 🤖 **Applied AI & Machine Learning** — building and understanding intelligent systems
+* 📊 **Data Science** — statistics, analysis, modeling, and experimentation
 
-I observe before I optimize.  
-Patterns reveal more than noise ever can.
+I observe before I optimize.
 
-I don’t just train models.  
-I study the systems that make intelligent decisions possible.
+I look for **patterns beneath the noise**, understand the problem first, and then build the solution.
+
+I don't just train models.
+I study the **systems, decisions, and structures** that make intelligence useful.
 
 ---
 
 ## ⚙️ Engineering Philosophy
 
-Precision over noise.  
-Structure over shortcuts.  
-Intelligent solutions when required — never for hype.
+**Precision over noise.**
+**Structure over shortcuts.**
+**Understanding over imitation.**
 
-Understand deeply.  
-Act deliberately.  
-Build to last.
+I believe good engineering is not about using the most complicated solution.
+
+It's about understanding the problem deeply enough to know **what actually needs to be built.**
+
+> Understand deeply.
+> Act deliberately.
+> Build to last.
 
 ---
 
 ## 🌌 Personal Philosophy
 
-Learning, to me, is not just a function of the human mind —  
-it feels like an attribute of the soul.
+Learning, to me, is more than a function of the human mind.
 
-When the soul is aligned,  
-growth becomes natural.
+It feels like an **attribute of the soul**.
+
+When the mind is curious,
+the discipline is consistent,
+and the soul is aligned —
+
+**growth becomes natural.**
 
 ---
 
 ## 🪶 Beyond Code
 
-Sometimes I write poems —  
-for the spaces where logic falls silent.
+Sometimes I write poems.
 
-Not everything meaningful can be compiled.
+Sometimes I write stories.
+
+Sometimes I simply observe.
+
+Because there are spaces where **logic falls silent**,
+and not everything meaningful needs to be compiled.
 
 ---
 
-> Silver Bullet — precise, intentional, built with purpose.
+## 🛠️ Current Direction
+
+I'm building toward a deeper understanding of:
+
+**AI → Data → Systems → Intelligence**
+
+Not chasing every new technology.
+
+Learning the foundations.
+Building practical things.
+Understanding why they work.
+
+---
+
+> **Silver Bullet**
+> *Precise. Intentional. Built with purpose.*
